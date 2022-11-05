@@ -7,3 +7,4 @@ Made with create.js library
 
 You need to click precisely on the text to start the game 
 
+https://rising-dot.github.io/GameOne/

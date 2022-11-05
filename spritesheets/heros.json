@@ -1,0 +1,15 @@
+
+
+
+{
+    "framerate": 8,
+    "images": ["spritesheets/heros.png"],
+    "frames": {"width":44, "height":57, "regX":0, "regY":0},
+    "animations": {
+        "hero": [0,7],
+        "hero3":[8,15],
+        "hero2":[16,23]
+
+    }
+}
+

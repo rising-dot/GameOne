@@ -1,0 +1,12 @@
+
+
+
+{
+"framerate": 5,
+"images": ["spritesheets/fruit.png"],
+"frames": {"width":30, "height":30, "regX":0, "regY":0},
+"animations": {
+"fruit": [0,3]
+
+}
+}

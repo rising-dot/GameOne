@@ -1,0 +1,12 @@
+
+
+
+{
+"framerate": 8,
+"images": ["spritesheets/enemy.png"],
+"frames": {"width":60, "height":100, "regX":0, "regY":0},
+"animations": {
+"enemy": [0,7]
+
+}
+}
